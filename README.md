@@ -26,3 +26,7 @@
  |Regnet|68.183|63.722|65.155|
  |Matek|51|68.9|54.5|
 
+ 
+**Reference**
+
+ Matek, C., Krappe, S., Münzenmayer, C., Haferlach, T., & Marr, C. (2021). An Expert-Annotated Dataset of Bone Marrow Cytology in Hematologic Malignancies [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.AXH3-T579
